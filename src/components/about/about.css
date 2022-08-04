@@ -1,0 +1,41 @@
+.about{
+    height: 100vh;
+   
+
+}
+
+.about-left{
+    flex:1;
+
+    
+}    
+
+.about-right{
+    flex:1;
+
+}
+
+.about-collage{
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    background-color: lightblue;
+}
+
+.img2-cover{
+
+    width: 60%;
+    height: 70vhpx;
+    border-radius: 30px;
+
+    
+    
+}
+
+.about-img{
+
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+
+}
