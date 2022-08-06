@@ -1,41 +1,70 @@
 .about{
-    height: 100vh;
+
+    height: 150vh;
+    display: flex;
+    align-items: center;
    
 
 }
 
 .about-left{
-    flex:1;
 
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
     
 }    
 
 .about-right{
+
     flex:1;
 
 }
 
+
 .about-collage{
+    background-color: #78C8E2;
+    height: 600px;
+    width: 600px;
+
     position: absolute;
-    top: 50px;
-    left: 50px;
-    background-color: lightblue;
+    top:0;
+    left: 0;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 25% 50%, 0% 0%);
+
+
 }
 
 .img2-cover{
 
     width: 60%;
-    height: 70vhpx;
-    border-radius: 30px;
+    height: 30vh;
 
-    
-    
+    overflow: hidden;
 }
 
 .about-img{
 
-    width: 400px;
-    height: 400px;
-    object-fit: cover;
+    height: 600px;
+    width: 600px;
 
+    position: absolute;
+
+    top: 2;
+    left: 2;
+
+    clip-path: polygon(30% 0%, 70% 0%, 100% 30%, 100% 70%, 70% 100%, 30% 100%, 0% 70%, 0% 30%);
+
+}
+
+
+.about-title{
+
+    font-weight: 400;
+}
+.about-desc{
+    font-weight: 300;
 }

@@ -50,7 +50,7 @@
     height: 50px;
     font-size: 30px;
     font-weight: bold;
-    color: lightskyblue;
+    color: #78C8E2;
     display: flex;
     align-items: center;
 
@@ -81,7 +81,7 @@
 
 .img-cover{
     clip-path: polygon(100% 0%, 100% 51%, 100% 100%, 25% 100%, 0% 50%, 25% 0%);
-    background-color: lightblue;
+    background-color: #78C8E2;
     height: 600px;
     width: 600px;
 
