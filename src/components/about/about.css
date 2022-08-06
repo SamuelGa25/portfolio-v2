@@ -62,9 +62,35 @@
 
 
 .about-title{
-
+    
     font-weight: 400;
+    font-size: 40px;
+    font-family: 'Permanent Marker', cursive;
 }
 .about-desc{
+
+    font-size: 25px;
     font-weight: 300;
+}
+
+.about-links{
+    font-family: 'Permanent Marker', cursive;
+}
+    
+
+.about-info{
+    font-family: 'Permanent Marker', cursive;
+
+}
+
+
+.about-img4,
+.about-img3,
+.about-img2{
+    height: 100px;
+    width: 100px;
+
+    clip-path: circle(50% at 50% 50%);
+  
+
 }
