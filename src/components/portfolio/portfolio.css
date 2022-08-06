@@ -1,0 +1,48 @@
+
+
+.portfolio{
+    height: 70vh;
+
+    padding: 50px 100px;
+    display: flex;
+
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+
+
+}
+
+.port-title{
+
+    font-size: 50px;
+    font-family: "Permanent marker", cursive;
+
+}
+
+.port-projects{
+    font-family: "Permanent marker", cursive;
+    font-size: 20px;
+
+    display: flex;
+    align-items: center;
+
+    flex-wrap: wrap;
+
+}
+
+.port-img2,
+.port-img1{
+    height: 350px;
+    width: 450px;
+
+    border-radius: 30px;
+    padding: 5px;
+    
+    margin: 3px;
+    display: flex;
+    align-items: center;
+
+    background-color: black;
+
+}

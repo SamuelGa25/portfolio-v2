@@ -1,6 +1,6 @@
 .about{
 
-    height: 150vh;
+    height: 70vh;
     display: flex;
     align-items: center;
    
@@ -75,11 +75,23 @@
 
 .about-links{
     font-family: 'Permanent Marker', cursive;
+    
 }
     
 
 .about-info{
-    font-family: 'Permanent Marker', cursive;
+    font-family: "Permanent marker", cursive;
+    font-size: 20px;
+
+
+    align-items: center;
+
+    padding: 5px;
+    margin: 10px;
+
+    display: inline;
+    flex-wrap: wrap;
+
 
 }
 
@@ -87,8 +99,16 @@
 .about-img4,
 .about-img3,
 .about-img2{
+
     height: 100px;
     width: 100px;
+
+    
+ 
+    
+    margin: 5px;
+    display: flex;
+    align-items: center;
 
     clip-path: circle(50% at 50% 50%);
   
