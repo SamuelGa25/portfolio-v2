@@ -9,6 +9,20 @@
 
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
+.intro-nav{
+
+    font-family: 'Permanent Marker', cursive;
+    font-size: 20px;
+    color:  #78C8E2;
+
+    position: sticky;
+    
+}
+
 .intro-left{
     flex: 1;
 
@@ -90,8 +104,6 @@
     clip-path: circle(50% at 50% 50%);
 
     position: absolute;
-
-    /* margin: 100px 20px; */
 
 
 }

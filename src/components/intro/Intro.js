@@ -1,6 +1,7 @@
-import "./intro.css"
 
+import "./intro.css"
 import Me from "../../img/img_me.jpeg"
+
 
 const Intro = () => {
     return(
@@ -11,8 +12,6 @@ const Intro = () => {
                     <h1 className = "intro-name">Samuel Garcia </h1>
 
 
-                    
-
                     <div className="intro-title">
                         <div className="intro-list">
                             <div className="intro-title-position">Front-End Developer</div>
@@ -21,8 +20,15 @@ const Intro = () => {
                         </div>
                     </div>
 
-                    <div className="intro-description">
-                          
+                    <div className="intro-nav">
+
+                        <nav>
+                            <ul>
+                                <li><a href = ".about">About Me</a></li>
+                                <li><a href = ".portfolio">Portfolio</a></li>
+                                <li><a href = ".contact">Contact Me</a></li>
+                            </ul>
+                        </nav>
                     </div>
 
                 </div>

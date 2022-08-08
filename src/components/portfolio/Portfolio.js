@@ -5,6 +5,8 @@ import port1 from "../../img/LinguaProject2.gif"
 import port2 from "../../img/code-quiz.png"
 import port3 from "../../img/work-day-scheduler.gif"
 import port4 from "../../img/to-do-list.png"
+import port5 from "../../img/readMe.png"
+import port6 from "../../img/password-gen.png"
 
 
 const Portfolio = () => {
@@ -25,17 +27,24 @@ const Portfolio = () => {
                 </a>Lingua Project</p>
 
                 <p><a href = "https://github.com/SamuelGa25/Code-Quiz" target="_blank"> 
-                <img src={port2} alt= "" className="port-img2"/>
+                <img src={port2} alt= "" className="port-img1"/>
                 </a>Code Quiz</p>
 
                 <p><a href = "https://github.com/SamuelGa25/Calendar" target="_blank"> 
-                <img src={port3} alt= "" className="port-img2"/>
+                <img src={port3} alt= "" className="port-img1"/>
                 </a>Work Day Scheduler</p>
 
                 <p><a href = "https://github.com/SamuelGa25/Project1-To-do-List" target="_blank"> 
-                <img src={port4} alt= "" className="port-img2"/>
+                <img src={port4} alt= "" className="port-img1"/>
                 </a>To do LIST Project</p>
 
+                <p><a href = "https://github.com/SamuelGa25/readMe_generator" target="_blank"> 
+                <img src={port5} alt= "" className="port-img1"/>
+                </a>ReadMe Generator</p>
+
+                <p><a href = "https://github.com/SamuelGa25/Password-Generator" target="_blank"> 
+                <img src={port6} alt= "" className="port-img1"/>
+                </a>ReadMe Generator</p>
 
 
             </div>
