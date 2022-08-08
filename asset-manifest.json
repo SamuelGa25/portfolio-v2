@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio-v2/static/css/main.94ee368d.css",
+    "main.js": "/portfolio-v2/static/js/main.99881e4e.js",
+    "static/media/LinguaProject2.gif": "/portfolio-v2/static/media/LinguaProject2.83c2a0ea47345a27435b.gif",
+    "static/media/img_me.jpeg": "/portfolio-v2/static/media/img_me.003a45f17db344a242c1.jpeg",
+    "static/media/work-day-scheduler.gif": "/portfolio-v2/static/media/work-day-scheduler.5b3f62cdcc4cafa34102.gif",
+    "static/media/SamuelGarciaResume.pdf": "/portfolio-v2/static/media/SamuelGarciaResume.8d40f99d3f5dde653e30.pdf",
+    "static/media/to-do-list.png": "/portfolio-v2/static/media/to-do-list.a6310af3042fb7fa8601.png",
+    "static/media/readMe.png": "/portfolio-v2/static/media/readMe.29fa97fc407cc8a41386.png",
+    "static/media/email.webp": "/portfolio-v2/static/media/email.478a2459458363b5b4a7.webp",
+    "static/media/developer.jpg": "/portfolio-v2/static/media/developer.bbb719d5d64c440875dc.jpg",
+    "static/media/code-quiz.png": "/portfolio-v2/static/media/code-quiz.206925855974a5d19b1e.png",
+    "static/media/github.png": "/portfolio-v2/static/media/github.d00aef4a561fa385b163.png",
+    "static/media/password-gen.png": "/portfolio-v2/static/media/password-gen.aa25cbf89939def02f6b.png",
+    "static/media/resume.jpg": "/portfolio-v2/static/media/resume.d340a8d42b8756ad7b90.jpg",
+    "index.html": "/portfolio-v2/index.html",
+    "main.94ee368d.css.map": "/portfolio-v2/static/css/main.94ee368d.css.map",
+    "main.99881e4e.js.map": "/portfolio-v2/static/js/main.99881e4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94ee368d.css",
+    "static/js/main.99881e4e.js"
+  ]
+}
