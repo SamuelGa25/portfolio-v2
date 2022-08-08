@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio-v2/static/css/main.a14ec7e2.css",
+    "main.css": "/portfolio-v2/static/css/main.48920882.css",
     "main.js": "/portfolio-v2/static/js/main.99881e4e.js",
     "static/media/LinguaProject2.gif": "/portfolio-v2/static/media/LinguaProject2.83c2a0ea47345a27435b.gif",
     "static/media/img_me.jpeg": "/portfolio-v2/static/media/img_me.003a45f17db344a242c1.jpeg",
@@ -15,11 +15,11 @@
     "static/media/password-gen.png": "/portfolio-v2/static/media/password-gen.aa25cbf89939def02f6b.png",
     "static/media/resume.jpg": "/portfolio-v2/static/media/resume.d340a8d42b8756ad7b90.jpg",
     "index.html": "/portfolio-v2/index.html",
-    "main.a14ec7e2.css.map": "/portfolio-v2/static/css/main.a14ec7e2.css.map",
+    "main.48920882.css.map": "/portfolio-v2/static/css/main.48920882.css.map",
     "main.99881e4e.js.map": "/portfolio-v2/static/js/main.99881e4e.js.map"
   },
   "entrypoints": [
-    "static/css/main.a14ec7e2.css",
+    "static/css/main.48920882.css",
     "static/js/main.99881e4e.js"
   ]
 }
