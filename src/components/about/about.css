@@ -1,10 +1,9 @@
 .about{
 
-    height: 70vh;
+    height: 100vh;
     display: flex;
     align-items: center;
    
-
 }
 
 .about-left{
@@ -23,7 +22,6 @@
     flex:1;
 
 }
-
 
 .about-collage{
     background-color: #78C8E2;
@@ -77,12 +75,10 @@
     font-family: 'Permanent Marker', cursive;
     
 }
-    
 
 .about-info{
     font-family: "Permanent marker", cursive;
     font-size: 20px;
-
 
     align-items: center;
 
@@ -92,9 +88,7 @@
     display: inline;
     flex-wrap: wrap;
 
-
 }
-
 
 .about-img4,
 .about-img3,
@@ -103,8 +97,6 @@
     height: 100px;
     width: 100px;
 
-    
- 
     
     margin: 5px;
     display: flex;

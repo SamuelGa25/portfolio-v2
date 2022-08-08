@@ -12,11 +12,12 @@ const Portfolio = () => {
     return(
         <div className="portfolio">
 
-             <div className="port-text">
+            <div className="port-text">
                 <h1 className="port-title">Portfolio</h1>
-                <h2>Take a look my Github to check more of my projects! :)</h2>
-             </div>
+                <h2>Take a look my Github to check more of my projects! :) </h2>
 
+            </div>
+            
             <div className="port-projects">
 
                 <p><a href = "https://github.com/SamuelGa25/Project-2-Lingua" target="_blank"> 
