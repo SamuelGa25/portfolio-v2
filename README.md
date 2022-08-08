@@ -16,6 +16,9 @@
   Deployed on link!
   ## Built With
   Javascript, react.js
+
+  ## Screenshot
+  ![portfolioVideo](https://user-images.githubusercontent.com/100814742/183380444-7f9302e2-fad0-42b9-8ede-eee668724157.gif)
   
   ## Contribution 
   Samuel Garcia
