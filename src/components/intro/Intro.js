@@ -22,9 +22,7 @@ const Intro = () => {
                     </div>
 
                     <div className="intro-description">
-                          Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                            Soluta perspiciatis officia atque alias! Delectus, nisi ducimus. Itaque, obcaecati 
-                            officia sapiente architecto illo nostrum provident enim est tempore facilis ad repellendus.
+                          
                     </div>
 
                 </div>

@@ -1,7 +1,11 @@
 
+
+
 .intro{
     display: flex;
-    height: 100vh;
+    height: 80vh;
+
+    background-color: gray;
 
 }
 
@@ -86,6 +90,10 @@
     clip-path: circle(50% at 50% 50%);
 
     position: absolute;
+
+    /* margin: 100px 20px; */
+
+
 }
 
 .img-cover{
@@ -93,6 +101,8 @@
     background-color: #78C8E2;
     height: 600px;
     width: 600px;
+
+    margin: -0px 5px;
 
     position: absolute;
     top:0;

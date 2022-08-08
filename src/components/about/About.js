@@ -30,9 +30,9 @@ const About = () => {
                 <h1 className="about-title">About Me</h1>
 
                 <p className="about-desc">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                Soluta perspiciatis officia atque alias! Delectus, nisi ducimus. Itaque, obcaecati 
-                officia sapiente architecto illo nostrum provident enim est tempore facilis ad repellendus.
+                 I am currently a Computer Science student at Florida International University(FIU).I Always had the passion to code, 
+                 and I am always open to learn more so in that way to I'm able to get the job done. 
+                 I am originally from Venezuela, but living in Miami, Florida. Feel free check my work :).
                 </p>
 
                 <h2 className="about-links"> Check out my:</h2>
