@@ -7,6 +7,7 @@ import port3 from "../../img/work-day-scheduler.gif"
 import port4 from "../../img/to-do-list.png"
 import port5 from "../../img/readMe.png"
 import port6 from "../../img/password-gen.png"
+import port7 from "../../img/crypto.png"
 
 
 const Portfolio = () => {
@@ -45,6 +46,10 @@ const Portfolio = () => {
                 <p><a href = "https://github.com/SamuelGa25/Password-Generator" target="_blank"> 
                 <img src={port6} alt= "" className="port-img1"/>
                 </a>ReadMe Generator</p>
+
+                <p><a href = "https://github.com/alandidiego/finalproject" target="_blank"> 
+                <img src={port7} alt= "" className="port-img1"/>
+                </a>OpenSignal Project</p>
 
 
             </div>
