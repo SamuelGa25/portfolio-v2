@@ -43,10 +43,6 @@ const Portfolio = () => {
                 <img src={port5} alt= "" className="port-img1"/>
                 </a>ReadMe Generator</p>
 
-                <p><a href = "https://github.com/SamuelGa25/Password-Generator" target="_blank"> 
-                <img src={port6} alt= "" className="port-img1"/>
-                </a>ReadMe Generator</p>
-
                 <p><a href = "https://github.com/alandidiego/finalproject" target="_blank"> 
                 <img src={port7} alt= "" className="port-img1"/>
                 </a>OpenSignal Project</p>
