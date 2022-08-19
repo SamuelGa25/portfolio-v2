@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/portfolio-v2/static/css/main.48920882.css",
-    "main.js": "/portfolio-v2/static/js/main.99881e4e.js",
+    "main.js": "/portfolio-v2/static/js/main.a62d733b.js",
     "static/media/LinguaProject2.gif": "/portfolio-v2/static/media/LinguaProject2.83c2a0ea47345a27435b.gif",
     "static/media/img_me.jpeg": "/portfolio-v2/static/media/img_me.003a45f17db344a242c1.jpeg",
     "static/media/work-day-scheduler.gif": "/portfolio-v2/static/media/work-day-scheduler.5b3f62cdcc4cafa34102.gif",
     "static/media/SamuelGarciaResume.pdf": "/portfolio-v2/static/media/SamuelGarciaResume.8d40f99d3f5dde653e30.pdf",
+    "static/media/crypto.png": "/portfolio-v2/static/media/crypto.e900cd66aca56f0f86e8.png",
     "static/media/to-do-list.png": "/portfolio-v2/static/media/to-do-list.a6310af3042fb7fa8601.png",
     "static/media/readMe.png": "/portfolio-v2/static/media/readMe.29fa97fc407cc8a41386.png",
     "static/media/email.webp": "/portfolio-v2/static/media/email.478a2459458363b5b4a7.webp",
@@ -16,10 +17,10 @@
     "static/media/resume.jpg": "/portfolio-v2/static/media/resume.d340a8d42b8756ad7b90.jpg",
     "index.html": "/portfolio-v2/index.html",
     "main.48920882.css.map": "/portfolio-v2/static/css/main.48920882.css.map",
-    "main.99881e4e.js.map": "/portfolio-v2/static/js/main.99881e4e.js.map"
+    "main.a62d733b.js.map": "/portfolio-v2/static/js/main.a62d733b.js.map"
   },
   "entrypoints": [
     "static/css/main.48920882.css",
-    "static/js/main.99881e4e.js"
+    "static/js/main.a62d733b.js"
   ]
 }
